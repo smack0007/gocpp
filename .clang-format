@@ -1,0 +1,12 @@
+---
+# options: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+BasedOnStyle: LLVM
+IndentWidth: 2
+ColumnLimit: 80
+UseTab: Never
+
+AlwaysBreakTemplateDeclarations: true
+AllowShortIfStatementsOnASingleLine: false
+AlignTrailingComments: true
+PointerAlignment: Left
+SpacesBeforeTrailingComments: 1
